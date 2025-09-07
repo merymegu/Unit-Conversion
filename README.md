@@ -32,7 +32,7 @@ Responsive Unit Converter for length, volume, and mass, built with HTML, CSS, an
  git clone https://github.com/yourusername/unit-converter.git
 
 ```
-2 - pen index.html in your browser (or use Live Server in VS Code).
+2 - Open index.html in your browser (or use Live Server in VS Code).
 
 3 - Enter a number in the input field (default is 0).
 
